@@ -1,0 +1,22 @@
+[2m2024-10-26T10:05:57.022968Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Another instance of the application is already running.
+[2m2024-10-26T12:43:47.403223Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Workspace with name '2' doesn't exist or is already active.
+[2m2024-10-26T13:06:16.652035Z[0m [31mERROR[0m [2mglazewm::common::commands::shell_exec[0m[2m:[0m [3merr_message[0m[2m=[0m"Failed to execute 'wt'.\n\nError: The operation was canceled by the user. (0x800704C7)"
+[2m2024-10-26T13:06:32.649272Z[0m [31mERROR[0m [2mglazewm::common::commands::shell_exec[0m[2m:[0m [3merr_message[0m[2m=[0m"Failed to execute 'wt'.\n\nError: The operation was canceled by the user. (0x800704C7)"
+[2m2024-10-26T13:06:40.985788Z[0m [31mERROR[0m [2mglazewm::common::commands::shell_exec[0m[2m:[0m [3merr_message[0m[2m=[0m"Failed to execute 'wt'.\n\nError: The operation was canceled by the user. (0x800704C7)"
+[2m2024-10-26T13:06:46.280564Z[0m [31mERROR[0m [2mglazewm::common::commands::shell_exec[0m[2m:[0m [3merr_message[0m[2m=[0m"Failed to execute 'shell-exec cmd'.\n\nError: The operation was canceled by the user. (0x800704C7)"
+[2m2024-10-26T13:16:22.946860Z[0m [31mERROR[0m [2mglazewm::common::commands::shell_exec[0m[2m:[0m [3merr_message[0m[2m=[0m"Failed to execute '%userprofile%/.glzr/zebar/start.bat'.\n\nError: The operation was canceled by the user. (0x800704C7)"
+[2m2024-10-26T13:16:42.403571Z[0m [31mERROR[0m [2mglazewm::common::commands::shell_exec[0m[2m:[0m [3merr_message[0m[2m=[0m"Failed to execute '%userprofile%/.glzr/zebar/start.bat'.\n\nError: The operation was canceled by the user. (0x800704C7)"
+[2m2024-10-26T13:16:46.012372Z[0m [31mERROR[0m [2mglazewm::common::commands::shell_exec[0m[2m:[0m [3merr_message[0m[2m=[0m"Failed to execute '%userprofile%/.glzr/zebar/start.bat'.\n\nError: The operation was canceled by the user. (0x800704C7)"
+[2m2024-10-26T13:20:20.579379Z[0m [31mERROR[0m [2mglazewm::common::commands::shell_exec[0m[2m:[0m [3merr_message[0m[2m=[0m"Failed to execute 'C:/Users/nic/.glzr/zebar/start.bat'.\n\nError: The operation was canceled by the user. (0x800704C7)"
+[2m2024-10-26T13:23:00.661015Z[0m [31mERROR[0m [2mglazewm::common::commands::shell_exec[0m[2m:[0m [3merr_message[0m[2m=[0m"Failed to execute 'C:/Users/nic/.glzr/zebar/start.bat'.\n\nError: Program path is not valid for command 'C:/Users/nic/.glzr/zebar/start.bat'."
+[2m2024-10-26T13:24:56.554432Z[0m [31mERROR[0m [2mglazewm::common::commands::shell_exec[0m[2m:[0m [3merr_message[0m[2m=[0m"Failed to execute 'C:/Users/nic/.glzr/zebar/start.bat'.\n\nError: Program path is not valid for command 'C:/Users/nic/.glzr/zebar/start.bat'."
+[2m2024-10-26T13:30:18.133688Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Workspace with name '2' doesn't exist or is already active.
+[2m2024-10-26T13:30:32.576602Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Workspace with name '2' doesn't exist or is already active.
+[2m2024-10-26T13:30:35.844592Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Workspace with name '2' doesn't exist or is already active.
+[2m2024-10-26T13:34:21.821635Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m did not find expected ',' or ']' at line 16 column 5, while parsing a flow sequence at line 14 column 27
+[2m2024-10-26T13:34:44.740065Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m did not find expected alphabetic or numeric character at line 15 column 45, while scanning an anchor at line 15 column 44
+[2m2024-10-26T13:34:53.907229Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m did not find expected alphabetic or numeric character at line 15 column 45, while scanning an anchor at line 15 column 44
+[2m2024-10-26T14:12:29.328150Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Workspace with name 'browser' doesn't exist or is already active.
+[2m2024-10-26T14:12:32.308773Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Workspace with name 'browser' doesn't exist or is already active.
+[2m2024-10-26T14:12:35.563785Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Workspace with name 'browser' doesn't exist or is already active.
+[2m2024-10-26T14:32:38.146070Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m did not find expected ',' or ']' at line 16 column 23, while parsing a flow sequence at line 14 column 27
